@@ -1,6 +1,6 @@
 # R for UX Research
 
-R code for the Maven course, "Intro to R for UX Researchers" (taught in January 2023)
+R code for the Maven course, "Intro to R for UX Researchers" (taught in February 2023)
 
 ![alt text](https://github.com/alexleavitt/r_uxresearch/blob/main/maven.social.jpeg)
 
